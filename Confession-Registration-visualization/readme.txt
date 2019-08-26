@@ -1,0 +1,1 @@
+The task (week4 of Applied Data Visualization of University of Michigan) is to find something related with religion in Spain. So I decided to observe the number of registrations per year of the differents confessions in Spain. I downloaded the data from https://maper.mjusticia.gob.es/Maper/RER.action
